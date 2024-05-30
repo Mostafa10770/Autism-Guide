@@ -1,6 +1,9 @@
+
 # Autism Early Diagnosis and Support Platform
 
-![Platform Overview](static/images/overview.png)
+<p align="center">
+  <img src="website1.png" alt="Website Example 1" width="70%" />
+</p>
 
 ## Introduction
 
@@ -26,7 +29,7 @@ To get started with the platform, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/autism-platform.git
+    git clone https://github.com/Mostafa10770/autism-platform.git
     cd autism-platform
     ```
 
@@ -70,7 +73,9 @@ autism-platform/
 │
 ├── static/               # Static files (CSS, JS, images)
 │   └── images/           # Directory for images
-│       └── overview.png  # Overview image for README
+│       ├── overview.png  # Overview image for README
+│       ├── website1.png  # Example website image 1
+│       └── website2.png  # Example website image 2
 │
 ├── data/                 # Directory for storing user data
 │   └── users.json        # JSON file for user data
@@ -78,11 +83,29 @@ autism-platform/
 └── requirements.txt      # Required Python packages
 ```
 
-## Animation
+## Examples
 
-Check out the following animation for a quick overview of the platform's features and functionality:
 
-![Platform Animation](static/images/platform_animation.gif)
+### Website Screenshots
+
+<p align="center">
+  <img src="website1.png" alt="Website Example 1" width="45%" />
+  <img src="website2.png" alt="Website Example 2" width="45%" />
+</p>
+
+
+
+### Chatbot Video
+
+
+Check out this video demonstration of the chatbot in action:
+    
+[![Chatbot Video](https://github.com/Mostafa10770/Autism-Guide/assets/98651655/17023a6b-e7dc-40af-a279-29ec95f0c210)](https://github.com/Mostafa10770/Autism-Guide/assets/98651655/17023a6b-e7dc-40af-a279-29ec95f0c210)
+
+
+
+
+
 
 ## Contributing
 
@@ -101,7 +124,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 For any questions or feedback, please contact:
-- **Name**: Mostafa Magdy
+- **Name**: Mostafa Hassan
 - **Email**: mustafamagdy2002@gmail.com
 
 Thank you for using the Autism Early Diagnosis and Support Platform! Together, we can make a difference.
